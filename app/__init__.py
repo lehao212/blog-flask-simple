@@ -1,10 +1,7 @@
 from flask import Flask, render_template
+
+ #dinh nghia
 app = Flask(__name__)
 
-@app.route('/')
-def main():
-    return render_template("index.html")
+from .route import*
 
-@app.route('/about')
-def about():
-    return render_template("about.html")
