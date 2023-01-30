@@ -1,0 +1,14 @@
+.box-content{
+    padding: 100px 0;
+}
+.title-all {
+    margin-bottom: 30px;
+}
+.title-all p {
+    font: 16;
+    color: #999;
+}
+.div-hr {
+    margin: 0 auto;
+    width: 25%;
+}

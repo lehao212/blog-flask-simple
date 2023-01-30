@@ -1,0 +1,16 @@
+.logo-header {
+    padding: 10px;
+}
+
+.logo-header img {
+    width: 150px;
+}
+
+.dropdown-profile {
+    padding-right: 100px;
+    padding-left: 20px;
+
+}
+.dropdown-menu {
+    width: 20px !important;
+}
